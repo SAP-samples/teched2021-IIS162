@@ -1,4 +1,4 @@
-# Level 1 Heading
+# Getting Started
 
 In this exercise, you will...
 

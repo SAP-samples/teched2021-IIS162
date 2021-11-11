@@ -1,37 +1,62 @@
-# Session ID - Session Title
+# IIS162 - Manage Your Implementation Using SAP Cloud ALM
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2021 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2021 session called "IIS162 - Manage Your Implementation Using SAP Cloud ALM".  
 
 ## Overview
 
-This session introduces attendees to...
+<img src="2021-11-11-14-23-55.png" width=300>
+
+### Good day!
+
+In this session you experience how SAP Cloud ALM can help you adoption the Intelligent Enterprise and accelerating your implementation projects.
+
+You will perform the whole roundtrip from with setting up your implementation project to project reporting and traceability. On this journey, you will be introduced to the most important SAP Cloud ALM concepts such as Projects, Processes, Tasks, Requirements, Test Cases, Features. 
+
+You will also notice that now you can execute multiple projects in parallel and perform mass uploads and downloads You will experience that how a guided approach always helps you understand what to do next. For this session you will have the dual role of a Project lead and a Business Process Expert
+
+Now you can get started. We hope you enjoy the session.
+
+​Cheers, Your SAP Cloud ALM team
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+You need is a modern browser to work with the tool. Additionally, you need sweets/fruits and water to stay nice and hydrated.
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
 - [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+    - [Access SAP Cloud ALM SAP TechEd tenant](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [User, Password, and Naming Conventions](exercises/ex1#exercise-11-sub-exercise-1-description)
+- [Exercise 1 - Project Setup](exercises/ex1/)
+    - [Select Project Template and Define Timeboxes/Sprints](exercises/ex1/README.md#Select-Project-Template-and-Define-Timeboxes/Sprints)
+    - [Create Teams and Assign Persons](exercises/ex1/README.md#Create-Teams-and-Assign-Persons)
+- [Exercise 2 - Document Custom Processes](exercises/ex2/)
+    - [Model Custom Processes](exercises/ex2#exercise-21-sub-exercise-1-description)
+    - [Activate Custom Processes](exercises/ex2#exercise-21-sub-exercise-1-description)
+- [Exercise 3 - Define the Project Process Scope](exercises/ex3/)
+    - [Scope SAP Standard Processes](exercises/ex2#exercise-21-sub-exercise-1-description)
+    - [Scope and Rework Custom Processes](exercises/ex2#exercise-21-sub-exercise-1-description)
+- [Exercise 4 - Determinde the Project Implementation Scope](exercises/ex4/)
+    - [Schedule Fit-to-Standard Workshops](exercises/ex2#exercise-21-sub-exercise-1-description)
+    - [Conduct Fit-to-Standard Workshops and Capture Requirements](exercises/ex2#exercise-21-sub-exercise-1-description)
+- [Exercise 5 - Manage Requirements Realization](exercises/ex5/)
+    - [Break Requirements into User Stories](exercises/ex2#exercise-21-sub-exercise-1-description)
+    - [Assign User Stories to Sprints](exercises/ex2#exercise-21-sub-exercise-1-description)
+    - [Change Process Status](exercises/ex2#exercise-21-sub-exercise-1-description)
+- [Exercise 6 - Manage Test Cases](exercises/ex6/)
+    - [Create Test Case](exercises/ex2#exercise-21-sub-exercise-1-description)
+- [Exercise 7 - Manage Deployments](exercises/ex7/)
+    - [Create Feature](exercises/ex2#exercise-21-sub-exercise-1-description)
+    - [Assign Transports](exercises/ex2#exercise-21-sub-exercise-1-description)
+    - [Feature Testing](exercises/ex2#exercise-21-sub-exercise-1-description)
+    - [Release and Deploy Feature](exercises/ex2#exercise-21-sub-exercise-1-description)
+- [Exercise 8 - Project Overview and Traceability](exercises/ex8/)
+    - [Overview Page](exercises/ex2#exercise-21-sub-exercise-1-description)
+    - [Process Traceability](exercises/ex2#exercise-21-sub-exercise-1-description)
+    - [Requirement Traceability](exercises/ex2#exercise-21-sub-exercise-1-description)
+- [Exercise 9 - Conclude and Hide Your Project](exercises/ex9/)    
 
 ## How to obtain support
 

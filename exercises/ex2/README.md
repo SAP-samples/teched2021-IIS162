@@ -1,20 +1,34 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 2 - Document Custom Processes
 
-In this exercise, we will create...
+SAP standard practices are comprehensive and support many important functions of an cooperation. Still, companies are very unique and also have own practices that are not (yet) provided as SAP standard content. 
+
+In this chapter you will document your own process models using SAP Cloud ALM.
 
 ## Exercise 2.1 Sub Exercise 1 Description
 
-After completing these steps you will have created...
+1. Enter "Process Authoring".
+<br>![](2021-11-11-16-09-47.png)
+<br> (1) Click Process Authoring
 
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
+2.	Create New Solution Process.
+<br>![](2021-11-11-16-10-40.png)
+<br> (1) Click "Create"
+<br>
+<br>![](2021-11-11-16-21-42.png)
+<br> (1) ...
+<br> (2) ...
+<br> (3) ...
+<br> (4) ...
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
+3. Model Your Solution Value Flow diagram to depcit scope of the process.
+<br> ![](2021-11-11-16-31-47.png)
+<br> (1) ...
+<br> (2) ...
+<br> (3) ...
+<br> (4) ...
 
-
+4. Model Your Solution Process Flow Diagram to depcit the process execution.
+<br> 
 
 ## Exercise 2.2 Sub Exercise 2 Description
 
