@@ -4,11 +4,13 @@ SAP standard practices are comprehensive and support many important functions of
 
 In this chapter you will document your own process models using SAP Cloud ALM.
 
-## Model Custom Processes
+## Create Custom Solution Process
 
 1. Enter "Process Authoring".
 <br> ![](2021-11-11-16-09-47.png)
 <br> (1) Click Process Authoring
+
+> Please note down the name of Solution Process. You might need it later again.
 
 2.	Create New Solution Process.
 <br> ![](2021-11-11-16-10-40.png)
@@ -19,22 +21,36 @@ In this chapter you will document your own process models using SAP Cloud ALM.
 <br> (3) ...
 <br> (4) Click "Save".
 
+## Model Your Process Diagrams
+
+> You can model your own diagram. But always keep reuse in mind. There might be Business Activities you want to reuse.
+
 1. Model Your **Solution Value Flow** diagram to depcit scope of the process.
 <br> ![](2021-11-11-16-53-11.png)
 <br> (1) ...
 <br> (2) ...
 <br> (3) Click "Save".
 
-1. Model Your **Solution Process Flow** Diagram to depcit the process execution.
+> You can model your own diagram. But always keep reuse in mind. There might be Solution Activities you want to reuse.
+
+2. Model Your **Solution Process Flow** Diagram to depcit the process execution.
 <br> ![](2021-11-11-16-56-43.png)
 <br> (1) ...
 <br> (2) ...
+<br> ![](2021-11-11-19-42-45.png)
+<br> (1) ...
+<br> (2) ...
+<br> (3) Click "Save".
 
-## Activate Custom Processes
+## Activate Your Custom Solution Processes
 
+1. Activate Your Custom Solution Process
+<br> ![](2021-11-11-19-45-24.png)
+<br> (1) ...
+<br> (2) ...
 
 ## Summary
 
-You've now ...
+You've now modeled your very own custom Solution Process including Solution Value Flow and Solution Process Flow diagrams. You can now go ahead and set it in scope for your implementation project.
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to [Exercise 3 - Define the Project Process Scope](../ex3/README.md)

@@ -1,42 +1,54 @@
 # Exercise 3 - Define the Project Process Scope
 
-In this exercise, we will create...
+A project usually delivers a defined scope under time constraints. The time contraints are defined, you did that when you defined the time boxes of the project. But the defined scope of the project is yet missing. The project scope consists of two elements
+* the Solution Processes that are supposed to be implemented, and
+* the requirementes, meaning the changes to the standard practices, which need to be implemented or even developed.
 
-## Exercise 2.1 Sub Exercise 1 Description
+In this chapter, you will scope the Solution Processes that are implemented in this project.
 
-After completing these steps you will have created...
+## Create a Scope
 
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
+1. Enter "Processes".
+<br> ![](2021-11-11-19-59-18.png)
+<br> (1) Click "Processes"
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
+2.	Create a New Scope.
+<br> ![](2021-11-11-20-05-21.png)
+<br> (1) Click "Manage Scopes"
+<br> ![](2021-11-11-20-06-48.png)
+<br> (1) ...
+<br> (2) ...
+<br> (3) ...
 
+## Pull Solution Processes into scope
 
+1. Enable scoping mode
+<br> ![](2021-11-11-20-13-57.png)
+<br> (1) Click "Edit Scope"
 
-## Exercise 2.2 Sub Exercise 2 Description
+2. Scope SAP Standard Solution Processes
+<br> ![](2021-11-11-20-18-33.png)
+<br> (1) ...
+<br> (2) ...
+<br> (3) ...
+<br> (4) ...
 
-After completing these steps you will have...
+> You can search for further SAP Standard Processes, Please just go ahaed a set a few in scope.
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
+3. Scope Custom Solution Processes
+<br> ![](2021-11-11-20-21-15.png)
+<br> (1) ...
+<br> (2) ...
+<br> (3) ...
+<br> (4) ...
+<br> (5) ...
 
-```
+## Review Project Process Scope
 
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
+1. Review Your Project Process Scope
+<br> ![](2021-11-11-20-24-04.png)
+<br> (1) ...
 
-## Summary
+You've now defined the Project Process Scope. You have clarity what Solution Processes the project shall deliver. You can move on and showcase the standard processes. Let's see what needs to be adjusted.
 
-You've now ...
-
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to [Exercise 4 - Determinde the Project Implementation Scope](../ex4/README.md)
