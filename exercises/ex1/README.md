@@ -24,7 +24,7 @@ Projects also provide a time boxing and defines the teams and contrete persons d
 <br> ![](2021-11-11-15-19-41.png)
 <br> (1) ...
 <br> (2) ...
-
+ 
 ## Create Teams and Assign Persons
 
 > **CAUTION**: Other than in a productive SAP Cloud ALM environment, we are here in a shared demo envionment. Personal information can be seen by others. Please do not enter any personal data e.g. eMail adresses. Thank You!
