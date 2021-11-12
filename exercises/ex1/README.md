@@ -3,7 +3,7 @@
 In this exercise, we will create a Project. Projects are the key entities to facilitate SAP implementations. 
 
 Projects can be equiped with project templates to best support different kind of implementaitons e.g. SAP S/4HANA Cloud, SAP SuccessFactors, or Intelligent Enterprise Suite focussed implementations. 
-Projects also provide a time boxing and defines the teams and contrete persons doing the project work.
+Projects also provide a time boxing and defines the teams and concrete persons doing the project work.
 
 ## Select Project Template and Define Timeboxes/Sprints
 
