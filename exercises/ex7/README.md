@@ -3,60 +3,67 @@
 In this exercise, we will create...
 
 ## Create Feature
+
+1. Enter Features
 <br> ![](2021-11-12-10-53-56.png)
-<br> (1) ...
+<br> (1) Click "Features".
 
+2. Create Feature
 <br> ![](2021-11-12-10-54-15.png)
-<br> (1) ...
+<br> (1) Click "Create".
 
+3. Specify Feature 
 <br> ![](2021-11-12-10-54-32.png)
-<br> (1) ...
-<br> (2) ...
-<br> (3) ...
-<br> (4) ...
-<br> (5) ...
-<br> (6) ...
+<br> (1) Enter "Determine Refund Configuration and Developments" as title.
+<br> (2) Set Scope "Plant Berlin".
+<br> (3) Set Workstream to "Application Design and Configuration".
+<br> (4) Set Priority to "High".
+<br> (5) Enter "Transport of Friendly Policy Configuration and Developments." as description.
+<br> (6) Click "Save".
 
 ## Assign Transports
 
+1. Start Implementation
 <br> ![](2021-11-12-10-54-46.png)
-<br> (1) ...
+<br> (1) Click "Start Implementation".
 
 <br> ![](2021-11-12-10-55-01.png)
-<br> (1) ...
+<br> (1) Click "Assign".
+
+> Please assign only one Transport Request to your Feature. This a courtesy to your fellow workshop participants to make sure everybody finds at least one Transport Request to assign.
 
 <br> ![](2021-11-12-10-55-18.png)
-<br> (1) ...
-<br> (2) ...
-<br> (3) ...
+<br> (1) Search for Transport Requests containing string "IIS162".
+<br> (2) Select **one** Transport Request.
+<br> (3) Click "Save".
 
 ## Release and Deploy Feature
 
 <br> ![](2021-11-12-10-55-36.png)
-<br> (1) ...
+<br> (1) Click "Deploy" to release Transport Request from **development** tenant/client to **test** tenant/client.
 
 <br> ![](2021-11-12-10-55-50.png)
-<br> (1) ...
+<br> (1) Click refresh icon and wait until the Transport Request arrived in the target tenant/client.
 
 <br> ![](2021-11-12-10-56-03.png)
-<br> (1) ...
+<br> (1) Click "Approve for Deployments" after the Transport Request has beed successfully tested in the test tenant/client.
 
 <br> ![](2021-11-12-10-56-14.png)
-<br> (1) ...
+<br> (1) Click "Deploy" to release Transport Request from **test** tenant/client to **production** tenant/client.
 
 <br> ![](2021-11-12-10-56-32.png)
-<br> (1) ...
+<br> (1) Click refresh icon and wait until the Transport Request arrived in the target tenant/client.
 
 <br> ![](2021-11-12-10-56-46.png)
-<br> (1) ...
+<br> (1) Click "Confirm Deployment" to confirm that the Transport Request reached the production tenant/client.
 
 <br> ![](2021-11-12-10-56-58.png)
-<br> (1) ...
+<br> (1) Click history icon.
 
 ## Review Deployment History
 
 <br> ![](2021-11-12-10-57-12.png)
-> ...
+> Review Feature history to find out who deployed what, when, and to what target tenant/client.
  
 ## Summary
 

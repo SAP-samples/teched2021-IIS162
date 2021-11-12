@@ -40,15 +40,18 @@ In this exercise, we will create...
 
 2. Start Test Execution
 <br> ![](2021-11-12-13-35-43.png)
-<br> (1) ...
+<br> (1) Find your Test Case and click "Execute" to start Test Run.
 
 3. Perform Test and Capture Test Results
 <br> ![](2021-11-12-13-36-32.png)
-<br> (1) ...
+<br> (1) Set Solution Action "1.1 Find Customer" to "Pass".
+<br> (2) Set Solution Action "1.2 Calculate Refund" to "Pass".
+<br> (3) Click "Save".
+<br> (4) Click "Close Test Run".
 
 4. Review Test Result
 <br> ![](2021-11-12-13-37-09.png)
-<br> (1) ...
+<br> Review Test Status.
 
 ## Summary
 
