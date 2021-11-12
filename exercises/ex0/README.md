@@ -1,6 +1,6 @@
 # Getting Started
 
-## Demo Envionment and Naming Conventions
+## Demo Environment and Naming Conventions
 
 After completing these steps you will have access to SAP Cloud ALM.
 
