@@ -34,12 +34,24 @@ In this exercise, we will create...
 
 ## Test Execution
 
+1. Navigate to "Test Execution".
+<br> ![](2021-11-12-13-35-14.png)
+<br> (1) ...
 
+2. Start Test Execution
+<br> ![](2021-11-12-13-35-43.png)
+<br> (1) ...
 
+3. Perform Test and Capture Test Results
+<br> ![](2021-11-12-13-36-32.png)
+<br> (1) ...
 
+4. Review Test Result
+<br> ![](2021-11-12-13-37-09.png)
+<br> (1) ...
 
 ## Summary
 
 You've now ...
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to [Exercise 7 - Manage Deployments](../ex7/README.md)

@@ -1,31 +1,25 @@
 # Getting Started
 
-<<<<<<< HEAD
-Wulff Edit
-=======
-In this exercise, you will...
-Jag edit
->>>>>>> eb7030e9df1408b8bfa0e7b0be7bb52366ca672b
-
-## Level 2 Heading
+## Demo Envionment and Naming Conventions
 
 After completing these steps you will have....
 
-1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
+## System Access
 
-2.	Insert this code.
-``` abap
- DATA(params) = request->get_form_fields(  ).
- READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-```
+1. Please open IIS162 Demo System Landing Page [here](https://support.sap.com/en/alm/demo-systems/cloud-alm-teched-iis162.html).
+
+2. Open SAP Cloud ALM tenant
+<br> ![](2021-11-12-14-40-27.png)
+<br> (1) ...
+
+3. Logon to SAP Cloud ALM
+<br> ![](2021-11-12-14-50-30.png)
+<br> (1) ...
+<br> (2) ...
+<br> (3) ...
 
 ## Summary
 
 Now that you have ... 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+
+Continue to [Exercise 1 - Project Setup](../ex1/README.md)
