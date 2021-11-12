@@ -1,6 +1,11 @@
 # Getting Started
 
+<<<<<<< HEAD
 Wulff Edit
+=======
+In this exercise, you will...
+Jag edit
+>>>>>>> eb7030e9df1408b8bfa0e7b0be7bb52366ca672b
 
 ## Level 2 Heading
 
