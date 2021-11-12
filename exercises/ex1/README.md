@@ -36,8 +36,8 @@ Projects also provide a time boxing and defines the teams and concrete persons d
 > A Project can have multiple teams. A Team can have multiple roles and each role can have multiple persons assigned.
 
 <br> ![](2021-11-11-15-28-24.png)
-<br> The team is displayed within a Project but to edit it , you need to navigate to the Edit UI for Teams
 <br> (1)Click "Manage Teams" to navigate to edit UI
+> The team is displayed within a Project but to edit it , you need to navigate to the Edit UI for Teams
  
 <br> ![](2021-11-11-15-31-30.png)
 > In this UI you can edit details of the current team, or click Create in the left Panel to create a new Team. In this exercise only one Team is sufficient.
@@ -51,4 +51,4 @@ Projects also provide a time boxing and defines the teams and concrete persons d
 
 You've now setup your project.
 
-Continue to - [Exercise 2 - Document Custom Processes](../ex2/README.md)
+Continue to - [Exercise 2 - Document Custom Processes](../ex2/)

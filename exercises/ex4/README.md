@@ -14,41 +14,41 @@ Now it's time for the Fit-to-Standard Workshops to find out what Requirements ar
 
 1. Schedule and Kick-off Fit-to-Standard Workshop
 <br> ![](2021-11-11-20-37-20.png)
-<br> (1) ...
-<br> (2) ...
-<br> (3) ...
-<br> (4) ...
+<br> (1) Set Scope Filter to the scope name (e.g. "Plant Berlin") you defined in the previous Excercise.
+<br> (2) Set Assigned Role Filter to "Business Process Expert".
+<br> (3) Check there are a few tasks generated for your scope e.g. "Schedule Fit to Standard", "Consuct Fit to Standard", or "Approve Requirements by Generating Implementation Tasks".
+<br> (4) Click navigation intent icon for "Conduct Fit to Standard" to get to the app linked to the Task.
 
 ## Capture Requirements
 
 1.	Select Solution Process
 <br> ![](2021-11-11-20-40-42.png)
-<br> (1) ...
+<br> (1) Click on details icon for "Accelerated Customer Returns (BKP) - Germany".
 
 2. Display Solution Process Flow diagram
 <br> ![](2021-11-11-20-42-50.png)
-<br> (1) ...
+<br> (1) Click "Solution Process Flow" tab.
 
 3. Create Requirement
 <br> ![](2021-11-11-20-45-24.png)
-<br> (1) ...
-<br> (2) ...
-<br> (3) ...
+<br> (1) Use the Navigator control to zoom and move in diagram.
+<br> (2) Find and select "Determine Refund" Solution Activity.
+<br> (3) Use call out button and click "Create Requirement".
 
 4. Specify Requirement
 <br> ![](2021-11-11-20-54-43.png)
-<br> (1) ...
-<br> (2) ...
-<br> (3) ...
+<br> (1) Enter "Friendly Refund Policy" as title.
+<br> (2) Enter "To make our customers happy we implement a friendly refund policy, Refund deductions only in exceptional cases." as description.
+<br> (3) Use scollbar to get to the lower areas of the screen (if needed).
 <br> ![](2021-11-11-20-56-10.png)
-<br> (4) ...
-<br> (5) ...
-<br> (6) ...
+<br> (4) Set Workstream to "Application Design and Configuration".
+<br> (5) Set Team to the team you defined during project setup e.g. "My Team".
+<br> (6) Click "Save".
 
 5. Set Solution Process Status
 <br> ![](2021-11-11-20-58-53.png)
-<br> (1) ...
-<br> (2) ...
+<br> (1) Check your Requirement is visible in the Requirements-section.
+<br> (2) Set Status to "Realization".
 
 ## Summary
 
