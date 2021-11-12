@@ -2,38 +2,35 @@
 
 In this exercise, we will create...
 
-## Exercise 2.1 Sub Exercise 1 Description
+## Create Manual Test Case
 
-After completing these steps you will have created...
+1. Navigate to "Test Preparation".
+<br> ![](2021-11-12-09-59-27.png)
+<br> (1) ...
 
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
+2. Create Test Case.
+<br> ![](2021-11-12-09-59-40.png)
+<br> (1) Click "Create".
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
+3. Specify Test Case.
+<br> ![](2021-11-12-09-59-52.png)
+<br> (1) ...
+<br> (2) ...
+<br> (3) ...
+<br> (4) ...
+<br> (5) ...
 
+4. Select Relevant Solution Activities.
+<br> ![](2021-11-12-10-00-05.png)
+<br> (1) ...
+<br> (2) ...
 
-
-## Exercise 2.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
+5. Provide Soltution Action Instructions and Mark Test Case as "Prepared".
+<br> ![](2021-11-12-10-00-17.png)
+<br> (1) ...
+<br> (2) ...
+<br> (3) ...
+<br> (4) ...
 
 ## Summary
 
