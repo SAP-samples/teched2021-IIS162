@@ -18,6 +18,8 @@ Projects also provide a time boxing and defines the teams and concrete persons d
 <br> (4) Click "Save".
 
 3. Define Timeboxing
+<br>
+<br>
 In this Tab you define the different timelines of Phases , Sprints or milestones
 <br> ![](2021-11-11-15-15-26.png)
 <br> (1) Click on the Timebox Tab
