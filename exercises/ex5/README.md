@@ -22,7 +22,7 @@ In this exercise, we will define User Stories. The team is executing the project
 <br> (1) Enter "I as Customer want to get transparency on deductions" as title.
 <br> (2) Enter a Requirement description.
 <br> (3) Use scroll bar to get to lower areas of the screen (if needed).
-<br>
+
 <br> ![](2021-11-12-08-48-10.png)
 <br> (1) Set Story Points to "5".
 <br> (2) Set Timebox to "Sprint 1".
