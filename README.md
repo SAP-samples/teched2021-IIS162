@@ -10,11 +10,11 @@ This repository contains the material for the SAP TechEd 2021 session called "II
 
 ### Good day!
 
-In this session you experience how SAP Cloud ALM can help you adoption the Intelligent Enterprise and accelerating your implementation projects.
+In this session you experience how SAP Cloud ALM can help you in adoption of the Intelligent Enterprise and accelerating your implementation projects.
 
-You will perform the whole roundtrip from with setting up your implementation project to project reporting and traceability. On this journey, you will be introduced to the most important SAP Cloud ALM concepts such as Projects, Processes, Tasks, Requirements, Test Cases, Features. 
+You will perform the whole roundtrip from setting up your implementation project to project reporting and traceability. On this journey, you will be introduced to the most important SAP Cloud ALM concepts such as Projects, Processes, Tasks, Requirements, Test Cases, Features. 
 
-You will also notice that now you can execute multiple projects in parallel and perform mass uploads and downloads You will experience that how a guided approach always helps you understand what to do next. For this session you will have the dual role of a Project lead and a Business Process Expert
+You will also notice that now you can execute multiple projects in parallel and perform mass uploads and downloads. You will experience that how a guided approach always helps you understand what to do next. For this session you will have the dual role of a Project lead and a Business Process Expert.
 
 Now you can get started. We hope you enjoy the session.
 
@@ -22,12 +22,12 @@ Now you can get started. We hope you enjoy the session.
 
 ## Requirements
 
-You need is a modern browser to work with the tool. Additionally, you need sweets/fruits and water to stay nice and hydrated.
+You need a modern browser to work with the tool. Additionally, you need sweets/fruits and water to stay nice and hydrated.
 
 ## Exercises
 
 - [Getting Started](exercises/ex0/)
-    - [Demo Envionment and Naming Conventions](exercises/ex0/#Demo-Envionment-and-Naming-Conventions)
+    - [Demo Environment and Naming Conventions](exercises/ex0/#Demo-Environment-and-Naming-Conventions)
     - [System Access and User](exercises/ex0/#System-Access-and-User)
 - [Exercise 1 - Project Setup](exercises/ex1/)
     - [Select Project Template and Define Timeboxes/Sprints](exercises/ex1/#Select-Project-Template-and-Define-Timeboxes/Sprints)
@@ -40,7 +40,7 @@ You need is a modern browser to work with the tool. Additionally, you need sweet
     - [Create a Scope](exercises/ex3/#Create-a-Scope)
     - [Pull Solution Processes into scope](exercises/ex3/#Pull-Solution-Processes-into-scope)
     - [Review Project Process Scope](exercises/ex3/#Review-Project-Process-Scope)
-- [Exercise 4 - Determinde the Project Implementation Scope](exercises/ex4/)
+- [Exercise 4 - Determine the Project Implementation Scope](exercises/ex4/)
     - [Fit-to-Standard Workshops](exercises/ex4/#Fit-to-Standard-Workshops)
     - [Capture Requirements](exercises/ex4/#Capture-Requirements)
 - [Exercise 5 - Manage Requirements Realization](exercises/ex5/)

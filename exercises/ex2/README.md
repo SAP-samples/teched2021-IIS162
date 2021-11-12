@@ -1,6 +1,6 @@
 # Exercise 2 - Document Custom Processes
 
-SAP standard practices are comprehensive and support many important functions of an cooperation. Still, companies are very unique and also have own practices that are not (yet) provided as SAP standard content. 
+SAP standard practices are comprehensive and support many important functions of a cooperation. Still, companies are very unique and also have own practices that are not (yet) provided as SAP standard content. 
 
 In this chapter you will document your own process models using SAP Cloud ALM.
 
@@ -26,7 +26,7 @@ In this chapter you will document your own process models using SAP Cloud ALM.
 
 > You can model your own diagram. But always keep reuse in mind. There might be Business Activities you want to reuse.
 
-1. Model Your **Solution Value Flow** diagram to depcit scope of the process.
+1. Model Your **Solution Value Flow** diagram to depict scope of the process.
 <br> ![](2021-11-11-16-53-11.png)
 <br> (1) Use the Business Process toolbar button to add Business Process symbols to the diagram.
 <br> (2) Use the Business Activity popover to reuse and add Business Activities to the diagram.
@@ -40,7 +40,7 @@ In this chapter you will document your own process models using SAP Cloud ALM.
 <br> (2) Click on "Edit".
 <br>
 <br> ![](2021-11-11-19-42-45.png)
-<br> (1) Use the palette symbols to model your BPMN diagram. You don't need to model exact the diagram depicted above. 
+<br> (1) Use the palette symbols to model your BPMN diagram. You don't need to model the exact diagram depicted above. 
 <br> (2) Use the Solution Activity popover to reuse and add Solution Activities to the diagram.
 <br> (3) Click "Save".
 

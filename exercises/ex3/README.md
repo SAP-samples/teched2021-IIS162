@@ -1,8 +1,8 @@
 # Exercise 3 - Define the Project Process Scope
 
-A project usually delivers a defined scope under time constraints. The time contraints are defined, you did that when you defined the time boxes of the project. But the defined scope of the project is yet missing. The project scope consists of two elements
+A project usually delivers a defined scope under time constraints. The time contraints are defined, you did that when you defined the time boxes of the project. But the defined scope of the project is yet missing. The project scope consists of two elements:
 * the Solution Processes that are supposed to be implemented, and
-* the requirementes, meaning the changes to the standard practices, which need to be implemented or even developed.
+* the requirements, meaning the changes to the standard practices, which need to be implemented or even developed.
 
 In this chapter, you will scope the Solution Processes that are implemented in this project.
 
@@ -34,13 +34,13 @@ In this chapter, you will scope the Solution Processes that are implemented in t
 <br> (3) Search for "BKP".
 <br> (4) Set "Accelerated Customer Returns (BKP) - Germany" in scope.
 
-> You can search for further SAP Standard Processes, Please just go ahaed a set a few in scope.
+> You can search for further SAP Standard Processes, please just go ahead a set a few in scope.
 
 1. Scope Custom Solution Processes
 <br> ![](2021-11-11-20-21-15.png)
 <br> (1) Clear Country/region Filter.
 <br> (2) Set Solution Scenario Filter to "Custom".
-<br> (3) Search for the Custom Process you created in the previous Excercise.
+<br> (3) Search for the Custom Process you created in the previous Exercise.
 <br> (4) Set your Custom Process in scope.
 <br> (5) Click "End Scoping".
 
