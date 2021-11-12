@@ -35,13 +35,14 @@ Projects also provide a time boxing and defines the teams and concrete persons d
 <br> A Project can have multiple teams. A Team can have multiple roles and each role can have multiple persons assigned.
 <br> ![](2021-11-11-15-28-24.png)
 <br> The team is displayed within a Project but to edit it , you need to navigate to the Edit UI for Teams
-<br> Click "Manage Teams"
+<br> (1)Click "Manage Teams" to navigate to edit UI
  
 <br> ![](2021-11-11-15-31-30.png)
-<br> (1) ...
-<br> (2) ...
-<br> (3) ...
-<br> (4) Click "Save"
+In this UI you can edit details of the current team, or click Create in the left Panel to create a new Team. In this exercise only one Team is sufficient.
+<br> (1) Click to change the Team Name.
+<br> (2) Enter a team desciption.
+<br> (3) Note that Project lead is assigned.
+<br> (4) Click "Save" to save the changes.
 
 ## Summary
 
