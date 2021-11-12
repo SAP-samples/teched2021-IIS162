@@ -4,9 +4,9 @@ In this exercise, we will create...
 
 ## Create Test Case
 
-1. Navigate to "Test Preparation".
+1. Enter "Test Preparation".
 <br> ![](2021-11-12-09-59-27.png)
-<br> (1) ...
+<br> (1) Click "Test Preparation"
 
 2. Create Test Case.
 <br> ![](2021-11-12-09-59-40.png)
@@ -14,29 +14,29 @@ In this exercise, we will create...
 
 3. Specify Test Case.
 <br> ![](2021-11-12-09-59-52.png)
-<br> (1) ...
-<br> (2) ...
-<br> (3) ...
-<br> (4) ... 
-<br> (5) ...
+<br> (1) Enter "Accelerated Customer Returns - Deduction Policy" as title.
+<br> (2) Set Scope to "Plant Berlin".
+<br> (3) Set Solution Process to "Accelerated Customer Returns (BKP) - Germany".
+<br> (4) Set Solution Process Flow Diagram to "BKP - 01 - Accelerated Customer Returns Management". 
+<br> (5) Click "Save".
 
-4. Select Relevant Solution Activities.
+1. Select Relevant Solution Activities.
 <br> ![](2021-11-12-10-00-05.png)
-<br> (1) ...
-<br> (2) ...
+<br> (1) Add "Determine Refund" to Test Case Scope.
+<br> (2) Click "Save".
 
 5. Provide Soltution Action Instructions and Mark Test Case as "Prepared".
 <br> ![](2021-11-12-10-00-17.png)
-<br> (1) ...
-<br> (2) ...
-<br> (3) ...
-<br> (4) ...
+<br> (1) Click edit button to change Test Case Solution Action "1.1 Find Customer" as depicted in the screenshot. 
+<br> (2) Use "Add" button to add second Test Case Solution Action "1.2 Calculate Refund" as depicted in the screenshot.
+<br> (3) Set Test Case Status to "Test Case Prepared".
+<br> (4) Click "Save".
 
 ## Test Execution
 
 1. Navigate to "Test Execution".
 <br> ![](2021-11-12-13-35-14.png)
-<br> (1) ...
+<br> (1) Click "Test Execution".
 
 2. Start Test Execution
 <br> ![](2021-11-12-13-35-43.png)

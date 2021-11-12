@@ -14,7 +14,6 @@ After completing these steps you will have access to SAP Cloud ALM.
 <br> ![](2021-11-12-14-40-27.png)
 <br> (1) Click "SAP Cloud ALM Launchpad".
 
-
 3. Logon to SAP Cloud ALM
 <br> ![](2021-11-12-14-50-30.png)
 <br> (1) Enter "Adam" as user.
