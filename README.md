@@ -26,7 +26,7 @@ You need is a modern browser to work with the tool. Additionally, you need sweet
 
 ## Exercises
 
-- [Getting Started](exercises/ex0/README.MD)
+- [Getting Started](exercises/ex0/)
     - [Demo Envionment and Naming Conventions](exercises/ex0/README.MD#Demo-Envionment-and-Naming-Conventions)
     - [System Access and User](exercises/ex0/README.MD#System-Access-and-User)
 - [Exercise 1 - Project Setup](exercises/ex1/README.MD)
