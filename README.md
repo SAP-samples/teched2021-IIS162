@@ -27,7 +27,7 @@ You need a modern browser to work with the tool. Additionally, you need sweets/f
 ## Exercises
 
 - [Getting Started](exercises/ex0/)
-    - [Demo Envionment and Naming Conventions](exercises/ex0/#Demo-Environment-and-Naming-Conventions)
+    - [Demo Environment and Naming Conventions](exercises/ex0/#Demo-Environment-and-Naming-Conventions)
     - [System Access and User](exercises/ex0/#System-Access-and-User)
 - [Exercise 1 - Project Setup](exercises/ex1/)
     - [Select Project Template and Define Timeboxes/Sprints](exercises/ex1/#Select-Project-Template-and-Define-Timeboxes/Sprints)
