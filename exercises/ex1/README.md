@@ -40,6 +40,7 @@ Projects also provide a time boxing and defines the teams and concrete persons d
  
 <br> ![](2021-11-11-15-31-30.png)
 > In this UI you can edit details of the current team, or click Create in the left Panel to create a new Team. In this exercise only one Team is sufficient.
+
 <br> (1) Click to change the Team Name.
 <br> (2) Enter a team desciption.
 <br> (3) Note that Project lead is assigned.
