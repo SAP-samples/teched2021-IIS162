@@ -1,6 +1,6 @@
 # Exercise 6 - Manage Tests
 
-In this exercise, we will create...
+Testing is often underestimated. Eventually testing keeps you out of jail. Let's see how SAP Cloud ALM can help to make this tasks little more pleasant. 
 
 ## Create Test Case
 
@@ -55,6 +55,6 @@ In this exercise, we will create...
 
 ## Summary
 
-You've now ...
+You've now know that the configurations and developments do what they are supposed to do. This is good. Let's see how the deployment of configuration and developments can be orchestrated.
 
 Continue to [Exercise 7 - Manage Deployments](../ex7/README.md)

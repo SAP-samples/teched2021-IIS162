@@ -1,6 +1,6 @@
 # Exercise 7 - Manage Deployments
 
-In this exercise, we will create...
+In this exercise, we will manage the deployment of Transport Requests through the landscape. SAP Cloud ALM bundles Transport Requests into Features. Let's do this.
 
 ## Create Feature
 
@@ -67,6 +67,6 @@ In this exercise, we will create...
  
 ## Summary
 
-You've now ...
+You've now deployed configurations and developments. Well, the hard work is done. Or have we missed something? Let's check...
 
 Continue to [Exercise 8 - Project Overview and Traceability](../ex8/README.md)

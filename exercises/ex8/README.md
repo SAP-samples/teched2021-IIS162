@@ -1,6 +1,6 @@
 # Exercise 8 - Project Overview and Traceability
 
-In this exercise, we will create...
+Keeping track on Project Progress and making sure everything is consistent is a task for SAP Cloud ALM Overview Page and Analytics. Let's get a glimpse.
 
 ## Overview Page
 
@@ -84,6 +84,8 @@ In this exercise, we will create...
 
 ## Summary
 
-You've now ...
+You've now checked the project for consistency and - with the help of Traceability - you could find and resolve some inconsistencies. 
+
+There is one last thing to do. **To keep the TechEd Demo Tenant nice and clean, please hide your project.** Next chapter shows you how.
 
 Continue to [Exercise 9 - Conclude and Hide Your Project](../ex9/README.md)

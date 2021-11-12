@@ -1,7 +1,5 @@
 # Exercise 9 - Conclude and Hide Your Project
 
-In this exercise, we will create...
-
 ## Hide your Project
 
 1. Enter Projects
@@ -14,4 +12,6 @@ In this exercise, we will create...
 
 ## Summary
 
-You've now ...
+We hope you enjoyed your little journey through an SAP implementation using SAP Cloud ALM. For us it was a please. Don't be shy, just request your own customer tenant [here](https://support.sap.com/en/alm/sap-cloud-alm.html) under "Start using it" **Request**. Have fun implementing SAP solutions!
+
+Cheers, Your SAP Cloud ALM team
