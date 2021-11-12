@@ -10,13 +10,13 @@ Now it's time for the Fit-to-Standard Workshops to find out what Requirements ar
 <br> ![](2021-11-11-20-33-31.png)
 <br> (1) Click "Tasks".
 
-> Scheduling a workshop is an activity that usually happens  in office or collaboration tools. Let's assume that the workshop was scheduled and the right people invited.
+> Scheduling a workshop is an activity that usually happens  in office or collaboration tools. Let's assume that the workshop was scheduled and the right people were invited.
 
 1. Schedule and Kick-off Fit-to-Standard Workshop
 <br> ![](2021-11-11-20-37-20.png)
 <br> (1) Set Scope Filter to the scope name (e.g. "Plant Berlin") you defined in the previous Excercise.
 <br> (2) Set Assigned Role Filter to "Business Process Expert".
-<br> (3) Check there are a few tasks generated for your scope e.g. "Schedule Fit to Standard", "Consuct Fit to Standard", or "Approve Requirements by Generating Implementation Tasks".
+<br> (3) Check there are a few tasks generated for your scope e.g. "Schedule Fit to Standard", "Conduct Fit to Standard", or "Approve Requirements by Generating Implementation Tasks".
 <br> (4) Click navigation intent icon for "Conduct Fit to Standard" to get to the app linked to the Task.
 
 ## Capture Requirements
@@ -39,7 +39,7 @@ Now it's time for the Fit-to-Standard Workshops to find out what Requirements ar
 <br> ![](2021-11-11-20-54-43.png)
 <br> (1) Enter "Friendly Refund Policy" as title.
 <br> (2) Enter "To make our customers happy we implement a friendly refund policy, Refund deductions only in exceptional cases." as description.
-<br> (3) Use scollbar to get to the lower areas of the screen (if needed).
+<br> (3) Use scrollbar to get to the lower areas of the screen (if needed).
 <br> ![](2021-11-11-20-56-10.png)
 <br> (4) Set Workstream to "Application Design and Configuration".
 <br> (5) Set Team to the team you defined during project setup e.g. "My Team".
