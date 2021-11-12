@@ -39,7 +39,7 @@ In this exercise, we will create...
 <br> (2)
 
 
-## Analytics - Process Traceability
+## Process Traceability
 
 1. Enter "Analytics".
 <br> ![](2021-11-12-13-46-33.png)
@@ -61,7 +61,7 @@ In this exercise, we will create...
 <br> ![](2021-11-12-13-50-07.png)
 <br> (1)
 
-## Analytics - Requirements Traceability
+## Requirements Traceability
 
 1. Start Requirements Traceability
 <br> ![](2021-11-12-13-50-53.png)

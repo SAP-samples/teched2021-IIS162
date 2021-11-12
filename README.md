@@ -6,7 +6,7 @@ This repository contains the material for the SAP TechEd 2021 session called "II
 
 ## Overview
 
-<img src="2021-11-11-14-23-55.png" width=300>
+<img src="images/2021-11-11-14-23-55.png" width=300>
 
 ### Good day!
 
@@ -26,39 +26,39 @@ You need is a modern browser to work with the tool. Additionally, you need sweet
 
 ## Exercises
 
-- [Getting Started](exercises/ex0/)
-    - [Access SAP Cloud ALM SAP TechEd tenant](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [User, Password, and Naming Conventions](exercises/ex1#exercise-11-sub-exercise-1-description)
-- [Exercise 1 - Project Setup](exercises/ex1/)
+- [Getting Started](exercises/ex0/README.MD)
+    - [Demo Envionment and Naming Conventions](exercises/ex0/README.MD#Demo-Envionment-and-Naming-Conventions)
+    - [System Access and User](exercises/ex0/README.MD#System-Access-and-User)
+- [Exercise 1 - Project Setup](exercises/ex1/README.MD)
     - [Select Project Template and Define Timeboxes/Sprints](exercises/ex1/README.md#Select-Project-Template-and-Define-Timeboxes/Sprints)
     - [Create Teams and Assign Persons](exercises/ex1/README.md#Create-Teams-and-Assign-Persons)
-- [Exercise 2 - Document Custom Processes](exercises/ex2/)
-    - [Create Custom Solution Process](exercises/ex2/README.md#exercise-21-sub-exercise-1-description)
-    - [Model Your Process Diagrams](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Activate Your Custom Solution Processes](exercises/ex2#exercise-21-sub-exercise-1-description)
-- [Exercise 3 - Define the Project Process Scope](exercises/ex3/)
-    - [Create a Scope](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Pull Solution Processes into scope](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Review Project Process Scope](exercises/ex2#exercise-21-sub-exercise-1-description)
-- [Exercise 4 - Determinde the Project Implementation Scope](exercises/ex4/)
-    - [Fit-to-Standard Workshops](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Capture Requirements](exercises/ex2#exercise-21-sub-exercise-1-description)
-- [Exercise 5 - Manage Requirements Realization](exercises/ex5/)
-    - [Break Requirements into User Stories](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Approve Requirement](exercises/ex2#exercise-21-sub-exercise-1-description)
-- [Exercise 6 - Manage Tests](exercises/ex6/)
-    - [Create Test Case](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Test Execution](exercises/ex2#exercise-21-sub-exercise-1-description)
-- [Exercise 7 - Manage Deployments](exercises/ex7/)
-    - [Create Feature](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Assign Transports](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Release and Deploy Feature](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Review Deployment History](exercises/ex2#exercise-21-sub-exercise-1-description)
-- [Exercise 8 - Project Overview and Traceability](exercises/ex8/)
-    - [Overview Page](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Process Traceability](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Requirement Traceability](exercises/ex2#exercise-21-sub-exercise-1-description)
-- [Exercise 9 - Conclude and Hide Your Project](exercises/ex9/)    
+- [Exercise 2 - Document Custom Processes](exercises/ex2/README.MD)
+    - [Create Custom Solution Process](exercises/ex2/README.md#Create-Custom-Solution-Process)
+    - [Model Your Process Diagrams](exercises/ex2/README.MD#Model-Your-Process-Diagrams)
+    - [Activate Your Custom Solution Processes](exercises/ex2/README.MD#Activate-Your-Custom-Solution-Processes)
+- [Exercise 3 - Define the Project Process Scope](exercises/ex3/README.MD)
+    - [Create a Scope](exercises/ex3/README.MD#Create-a-Scope)
+    - [Pull Solution Processes into scope](exercises/ex3/README.MD#Pull-Solution-Processes-into-scope)
+    - [Review Project Process Scope](exercises/ex3/README.MD#Review-Project-Process-Scope)
+- [Exercise 4 - Determinde the Project Implementation Scope](exercises/ex4/README.MD)
+    - [Fit-to-Standard Workshops](exercises/ex4/README.MD#Fit-to-Standard-Workshops)
+    - [Capture Requirements](exercises/ex4/README.MD#Capture-Requirements)
+- [Exercise 5 - Manage Requirements Realization](exercises/ex5/README.MD)
+    - [Break Requirements into User Stories](exercises/ex5/README.MD#Break-Requirements-into-User-Stories)
+    - [Approve Requirement](exercises/ex5/README.MD#Approve-Requirement)
+- [Exercise 6 - Manage Tests](exercises/ex6/README.MD)
+    - [Create Test Case](exercises/ex6/README.MD#Create-Test-Case)
+    - [Test Execution](exercises/ex6/README.MD#Test-Execution)
+- [Exercise 7 - Manage Deployments](exercises/ex7/README.MD)
+    - [Create Feature](exercises/ex7/README.MD#Create-Feature)
+    - [Assign Transports](exercises/ex7/README.MD#Assign-Transports)
+    - [Release and Deploy Feature](exercises/ex7/README.MD#Release-and-Deploy-Feature)
+    - [Review Deployment History](exercises/ex7/README.MD#Review-Deployment-History)
+- [Exercise 8 - Project Overview and Traceability](exercises/ex8/README.MD)
+    - [Overview Page](exercises/ex8/README.MD#Overview-Page)
+    - [Process Traceability](exercises/ex8/README.MD#Process-Traceability)
+    - [Requirements Traceability](exercises/ex8/README.MD#Requirements-Traceability)
+- [Exercise 9 - Conclude and Hide Your Project](exercises/ex9/README.MD)    
 
 ## How to obtain support
 
