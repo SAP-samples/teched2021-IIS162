@@ -1,6 +1,6 @@
 # Getting Started
 
-In this exercise, you will...
+Wulff Edit
 
 ## Level 2 Heading
 
