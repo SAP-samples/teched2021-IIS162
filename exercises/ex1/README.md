@@ -2,7 +2,7 @@
 
 In this exercise, we will create a Project. Projects are the key entities to facilitate SAP implementations. 
 
-Projects can be equiped with project templates to best support different kind of implementaitons e.g. SAP S/4HANA Cloud, SAP SuccessFactors, or Intelligent Enterprise Suite focussed implementations. 
+Projects can be equipped with project templates to best support different kind of implementaitons e.g. SAP S/4HANA Cloud, SAP SuccessFactors, or Intelligent Enterprise Suite focussed implementations. 
 Projects also provide a time boxing and defines the teams and concrete persons doing the project work.
 
 ## Select Project Template and Define Timeboxes/Sprints
@@ -18,11 +18,11 @@ Projects also provide a time boxing and defines the teams and concrete persons d
 <br> (4) Click "Save".
 
 3. Define Timeboxing
-> In this Step you define the different timelines of Phases , Sprints or milestones
+> In this Step you define the different timelines of Phases , Sprints or Milestones
 
 <br> ![](2021-11-11-15-15-26.png)
 <br> (1) Click on the Timebox Tab
-<br> (2) Enter planned dates for your phases. You do not need to enter dates of all the phases. you can as an example enter dates only for Prepare phase, Explore phase and Realize phase
+<br> (2) Enter planned dates for your phases. You do not need to enter dates of all the phases. You can as an example enter dates only for Prepare phase, Explore phase and Realize phase
 <br> ![](2021-11-11-15-19-41.png)
 <br> (1) Start creating some sprints for your Project
 <br> (2) We recommend you that you create Sprints without overlapping of dates
@@ -30,7 +30,7 @@ Projects also provide a time boxing and defines the teams and concrete persons d
 <br> (3) Make sure you save the Project.
 ## Create Teams and Assign Persons
 
-> **CAUTION**: Other than in a productive SAP Cloud ALM environment, we are here in a shared demo envionment. Personal information can be seen by others. Please do **not** enter any personal data e.g. eMail adresses. Thank You!
+> **CAUTION**: This is not a productive SAP Cloud ALM environment. We are here in a shared demo environment and personal information can be seen by others. Please do **not** enter any personal data e.g. E-Mail adresses. Thank You!
 
 1. Create Team and Assign Persons
 > A Project can have multiple teams. A Team can have multiple roles and each role can have multiple persons assigned.
