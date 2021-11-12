@@ -24,8 +24,8 @@ Projects also provide a time boxing and defines the teams and concrete persons d
 <br> (1) Click on the Timebox Tab
 <br> (2) Enter planned dates for your phases. You do not need to enter dates of all the phases. You can as an example enter dates only for Prepare phase, Explore phase and Realize phase
 <br> ![](2021-11-11-15-19-41.png)
-<br> (1) Start creating some sprints for your Project
-<br> (2) We recommend you that you create Sprints without overlapping of dates
+<br> (1) Start creating some sprints for your Project.
+<br> (2) We recommend you that you create Sprints without overlapping of dates.
 <br> (3) You can populate some dates for the milestones created by system for Kickoff and Prepared Go Live.
 <br> (3) Make sure you save the Project.
 ## Create Teams and Assign Persons
