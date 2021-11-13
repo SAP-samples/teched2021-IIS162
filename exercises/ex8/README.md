@@ -11,18 +11,18 @@ Keeping track on Project Progress and making sure everything is consistent is a 
 1. Adapt Filters.
 <br> ![](2021-11-12-13-42-58.png)
 <br> (1) Click "Adapt Filters".
-<br> 
+
 <br> ![](2021-11-12-13-43-12.png)
 <br> (1) Select "Timebox".
 <br> (2) Click "Ok".
-<br> 
+
 <br> ![](2021-11-12-13-43-25.png)
 <br> (1) Set Timebox Filter to "Sprint 1".
 <br> (2) Click view variant drop down.
-<br> 
+
 <br> ![](2021-11-12-13-43-40.png)
 <br> (1) Click "Save As".
-<br>
+
 <br> ![](2021-11-12-13-43-57.png)
 <br> (1) Enter name for the view following current month, underscore and a free text title. PLease follow form \<MMDD\>_\<Free Text Title\>.
 <br> (2) Click "Save".
@@ -30,11 +30,11 @@ Keeping track on Project Progress and making sure everything is consistent is a 
 1. Navigate to User Story
 <br> ![](2021-11-12-13-44-57.png)
 <br> (1) Click on user story "I as a Customer wanto to get transparency on deductions".
-<br>
+
 <br> ![](2021-11-12-13-45-27.png)
 <br> (1) Set User Story Status to "Done".
 <br> (2) Navigate back to Overview Page.
-<br>
+
 <br> ![](2021-11-12-13-45-47.png)
 <br> (1) Select your view.
 <br> 
