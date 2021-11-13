@@ -15,7 +15,7 @@ In this chapter, you will scope the Solution Processes that are implemented in t
 2.	Create a New Scope.
 <br> ![](2021-11-11-20-05-21.png)
 <br> (1) Click "Manage Scopes"
-<br>
+
 <br> ![](2021-11-11-20-06-48.png)
 <br> (1) Click "Add" to add new Scope to the list.
 <br> (2) Enter a Scope Name e.g. "Plant Berlin".
