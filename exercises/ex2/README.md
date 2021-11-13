@@ -15,7 +15,7 @@ In this chapter you will document your own process models using SAP Cloud ALM.
 2.	Create New Solution Process.
 <br> ![](2021-11-11-16-10-40.png)
 <br> (1) Click "Create".
-<br>
+
 <br> ![](2021-11-11-16-21-42.png)
 <br> (1) Enter a Solution Process name. Please follow naming convention using current date, underscore, and a free text Solution Process name \<YYYYMMDD\>_\<Your Solution Process name\>.
 <br> (2) Click "Select".
@@ -38,7 +38,7 @@ In this chapter you will document your own process models using SAP Cloud ALM.
 <br> ![](2021-11-11-16-56-43.png)
 <br> (1) Click on "Solution Process Flow" tab.
 <br> (2) Click on "Edit".
-<br>
+
 <br> ![](2021-11-11-19-42-45.png)
 <br> (1) Use the palette symbols to model your BPMN diagram. You don't need to model the exact diagram depicted above. 
 <br> (2) Use the Solution Activity popover to reuse and add Solution Activities to the diagram.
