@@ -47,7 +47,7 @@ Do you remember the two elements that make the project scope?  It was both the S
 5. Set Solution Process Status
 <br> ![](2021-11-11-20-58-53.png)
 <br> (1) Check your Requirement is visible in the Requirements-section.
-<br> (2) Set Status to "Realization".
+<br> (2) Set Status of Solution Process to "Realization".
 
 ## Summary
 
