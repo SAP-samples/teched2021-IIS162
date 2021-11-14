@@ -9,6 +9,7 @@
 2.	Hide Your Project
 <br> ![](2021-11-12-14-32-05.png)
 <br> (1) Find and select your project and click "Hide Project".
+<br> (2) Note that yor Project now shows in the Tab "Hidden"
 
 ## Summary
 
