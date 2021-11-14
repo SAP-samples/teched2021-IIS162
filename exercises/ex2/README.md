@@ -34,7 +34,7 @@ In this chapter you will document your own process models using SAP Cloud ALM.
 
 > You can model your own diagram. But always keep reuse in mind. There might be Solution Activities you want to reuse.
 
-2. Model Your **Solution Process Flow** Diagram to depcit the process execution.
+2. Model Your **Solution Process Flow** Diagram to depict the process execution.
 <br> ![](2021-11-11-16-56-43.png)
 <br> (1) Click on "Solution Process Flow" tab.
 <br> (2) Click on "Edit".
