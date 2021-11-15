@@ -18,13 +18,11 @@ Projects also provide a time boxing and defines the teams and concrete persons d
 <br> (4) Click "Save".
 
 3. Define Timeboxing
-
 > In this Step you define the different timelines of Phases, Sprints or milestones.
-
 <br> ![](2021-11-11-15-15-26.png)
 <br> (1) Click on the Timebox Tab
 <br> (2) Enter planned dates for your phases. You do not need to enter dates of all the phases. you can as an example enter dates only for Prepare phase, Explore phase and Realize phase.
-<br>
+
 <br> ![](2021-11-11-15-19-41.png)
 <br> (1) Start creating some sprints for your Project.
 <br> (2) We recommend you that you create Sprints without overlapping of dates.
@@ -36,21 +34,20 @@ Projects also provide a time boxing and defines the teams and concrete persons d
 > **CAUTION**: This is not a productive SAP Cloud ALM environment. We are here in a shared demo environment and personal information can be seen by others. Please do **not** enter any personal data e.g. E-Mail adresses. Thank You!
 
 1. Create Team and Assign Persons
-> A Project can have multiple teams. A Team can have multiple roles and each role can have multiple persons assigned.
-
 <br> ![](2021-11-11-15-28-24.png)
 <br> (1)Click "Manage Teams" to navigate to edit UI
 
+> A Project can have multiple teams. A Team can have multiple roles and each role can have multiple persons assigned.
 > The team is displayed within a Project but to edit it , you need to navigate to the Edit UI for Teams
- 
+
+2. Maintain Team  
 <br> ![](2021-11-11-15-31-30.png)
-
-> In this UI you can edit details of the current team, or click Create in the left Panel to create a new Team. In this exercise only one Team is sufficient.
-
 <br> (1) Click to change the Team Name.
 <br> (2) Enter a team desciption.
 <br> (3) Note that Project lead is assigned.
 <br> (4) Click "Save" to save the changes.
+
+> In this UI you can edit details of the current team, or click Create in the left Panel to create a new Team. In this exercise only one Team is sufficient.
 
 ## Summary
 
