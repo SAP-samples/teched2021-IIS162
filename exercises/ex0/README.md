@@ -8,7 +8,7 @@ After completing these steps you will have access to SAP Cloud ALM.
 
 ## System Access and User
 
-1. Please open IIS162 Demo System Landing Page [here](). Link will be prior to session start. :-)
+1. Please open IIS162 Demo System Landing Page [here](). Link will be added prior to session start. :-)
 
 2. Open SAP Cloud ALM tenant
 <br> ![](2021-11-12-14-40-27.png)
