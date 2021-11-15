@@ -36,6 +36,10 @@ In this exercise, we will manage the deployment of Transport Requests through th
 <br> (1) Search for Transport Requests containing string "IIS162".
 <br> (2) Select **one** Transport Request.
 <br> (3) Click "Save".
+<br> 
+<br> A transport can only be assigned to one Feature. When you select a Transport Request it may already be assigned to a transport by a fellow workshop participant. In this case you would see the following error message:
+<br> ![](2021-11-15-16-07-30.png)
+<br> In this case please re-open tzhe dialog and pick a different Transport Request.
 
 ## Release and Deploy Feature
 
