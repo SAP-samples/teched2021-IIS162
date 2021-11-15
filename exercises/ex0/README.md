@@ -1,7 +1,5 @@
 # Getting Started
 
-## Demo Environment and Naming Conventions
-
 After completing these steps you will have access to SAP Cloud ALM.
 
 > **CAUTION**: You will be working in a shared demo envionment. You and your fellow workshop participants will be using same tenant and user. So the only thing that separates you from the others is the Session Context. When you logout and login again, you may end up in a different project and different filter settings. Please carefully check you are working in the right Project!!!
