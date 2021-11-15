@@ -12,9 +12,12 @@ This repository contains the material for the SAP TechEd 2021 session called "II
 
 In this session you experience how SAP Cloud ALM can help you in adoption of the Intelligent Enterprise and accelerating your implementation projects. 
 
-You will simulate an SAP implementation project and you will perform the whole roundtrip from setting up your implementation project to project reporting and traceability. On this journey, you will be introduced to the most important SAP Cloud ALM concepts such as Projects, Processes, Tasks, Requirements, Test Cases, and Features. 
+You will experience end-to-end how the tool supports the implementation journey:
 
-You  For this session you will have the dual role of a Project lead and a Business Process Expert.
+Starting with setting up the project, timelines and onboarding the team in Cloud ALM you will then model your own proces and scope the processes to be implemented as part of the project. Then you will be creating requirements as part of the fit-to-standard workshops and divide the business requirements into user stories describing what needs to be done. As a next step, a manual test case is created and tested before releasing the transports with the help of a feature in SAP Cloud ALM.
+
+During this project journey guided by SAP Cloud ALM you can track and trace the status of the project and its entities in the project dashboard and with the help of the Analytics apps.
+
 Now you can get started. We hope you enjoy the session.
 
 ​Cheers, Your SAP Cloud ALM team

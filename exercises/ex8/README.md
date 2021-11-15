@@ -1,6 +1,6 @@
 # Exercise 8 - Project Overview and Traceability
 
-Keeping track on Project Progress and making sure everything is consistent is a task for SAP Cloud ALM Overview Page and Analytics. Let's get a glimpse.
+Keeping track on Project Progress and making sure everything is consistent is a task for SAP Cloud ALM Overview Page and Analytics. Let's get it a glimpse.
 
 ## Overview Page
 

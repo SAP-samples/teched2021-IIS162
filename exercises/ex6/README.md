@@ -1,6 +1,6 @@
 # Exercise 6 - Manage Tests
 
-Testing is often underestimated. Eventually testing keeps you out of jail. Let's see how SAP Cloud ALM can help to make this tasks little more pleasant. 
+Testing is often underestimated. Eventually testing keeps you out of jail. Let's see how SAP Cloud ALM can help to make this task a little more pleasant.
 
 ## Create Test Case
 
@@ -25,7 +25,7 @@ Testing is often underestimated. Eventually testing keeps you out of jail. Let's
 <br> (1) Add "Determine Refund" to Test Case Scope.
 <br> (2) Click "Save".
 
-5. Provide Soltution Action Instructions and Mark Test Case as "Prepared".
+5. Provide Soltution Action Instructions and mark Test Case as "Prepared".
 <br> ![](2021-11-12-10-00-17.png)
 <br> (1) Click edit button to change Test Case Solution Action "1.1 Find Customer" as depicted in the screenshot. 
 <br> (2) Use "Add" button to add second Test Case Solution Action "1.2 Calculate Refund" as depicted in the screenshot.
@@ -55,6 +55,6 @@ Testing is often underestimated. Eventually testing keeps you out of jail. Let's
 
 ## Summary
 
-You've now know that the configurations and developments do what they are supposed to do. This is good. Let's see how the deployment of configuration and developments can be orchestrated.
+You now know that the configurations and developments do what they are supposed to do. This is good. Let's see how the deployment of configuration and developments can be orchestrated.
 
 Continue to [Exercise 7 - Manage Deployments](../ex7/README.md)

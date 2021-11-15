@@ -1,6 +1,6 @@
 # Exercise 5 - Manage Requirements Realization
 
-In this exercise, we will define User Stories. The team is executing the project using Spints. User Stories help to split the work into smaller chunck and to dristribute to work over the sprints. Let's do that!
+In this exercise, we will define User Stories. The team is executing the project using Sprints. User Stories help to split the work into smaller chuncks and to dristribute the work across sprints and optionally across teams/users. Let's do that!
 
 ## Break Requirements into User Stories
 

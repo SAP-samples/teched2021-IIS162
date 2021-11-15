@@ -4,6 +4,8 @@ SAP standard practices are comprehensive and support many important functions of
 
 In this chapter you will document your own process models using SAP Cloud ALM.
 
+A “solution process” defines how a busines process is supported by the various solutions. In order to create a new solution process, we need to define which business process (variant) this solution process belongs to. In our example we will create a custom solution process of the “order to cash” process.
+
 ## Create Custom Solution Process
 
 > Please note down the names of the artifacts you create. You might need them later again.
