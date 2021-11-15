@@ -36,7 +36,7 @@ Do you remember the two elements that make the project scope? It was both the So
 <br> ![](2021-11-11-20-54-43.png)
 <br> (1) Enter "Friendly Refund Policy" as title.
 <br> (2) Enter "To make our customers happy we implement a friendly refund policy, Refund deductions only in exceptional cases." as description.
-<br> (3) Use scollbar to get to the lower areas of the screen (if needed).
+<br> (3) Use scrollbar to get to the lower areas of the screen (if needed).
 <br> ![](2021-11-11-20-56-10.png)
 <br> (4) Set Workstream to "Application Design and Configuration".
 <br> (5) Set Team to the team you defined during project setup e.g. "My Team".
