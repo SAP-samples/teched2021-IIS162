@@ -31,7 +31,7 @@ In this exercise, we will define User Stories. The team is executing the project
 
 5. Navigate back to Requirement
 <br> ![](2021-11-12-08-50-47.png)
-<br> (1) Click on Requirement name "Friendly Refund Policy" in the Realations section.
+<br> (1) Click on Requirement name "Friendly Refund Policy" in the Relations section.
 
 > You can breakdown the Requirement into many User Stories. You may want to create further User Stories. They will all show up in the "Relations" section of the Requirement.
 > Even User Stories can have Sub-Tasks. You should give it a try. If you have time, just define some.
