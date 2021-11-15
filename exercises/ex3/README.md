@@ -54,4 +54,4 @@ In this chapter, you will scope the Solution Processes that are implemented in t
 
 You've now defined the Project Process Scope. You have clarity what Solution Processes the project shall deliver. You can move on and showcase the standard processes. Let's see what needs to be adjusted.
 
-Continue to [Exercise 4 - Determinde the Project Implementation Scope](../ex4/README.md)
+Continue to [Exercise 4 - Determine the Project Implementation Scope](../ex4/README.md)
