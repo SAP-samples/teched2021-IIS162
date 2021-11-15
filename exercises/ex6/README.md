@@ -20,7 +20,7 @@ Testing is often underestimated. Eventually testing keeps you out of jail. Let's
 <br> (4) Set Solution Process Flow Diagram to "BKP - 01 - Accelerated Customer Returns Management". 
 <br> (5) Click "Save".
 
-1. Select Relevant Solution Activities.
+4. Select Relevant Solution Activities.
 <br> ![](2021-11-12-10-00-05.png)
 <br> (1) Add "Determine Refund" to Test Case Scope.
 <br> (2) Click "Save".

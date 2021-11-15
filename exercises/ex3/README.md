@@ -50,6 +50,8 @@ In this chapter, you will scope the Solution Processes that are implemented in t
 <br> ![](2021-11-11-20-24-04.png)
 <br> (1) Clear Search, Solution Scenario, and Country/Region Filter and review the project process scope.
 
+## Summary
+
 You've now defined the Project Process Scope. You have clarity what Solution Processes the project shall deliver. You can move on and showcase the standard processes. Let's see what needs to be adjusted.
 
 Continue to [Exercise 4 - Determinde the Project Implementation Scope](../ex4/README.md)

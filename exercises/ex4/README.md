@@ -8,9 +8,8 @@ Do you remember the two elements that make the project scope?  It was both the S
 <br> ![](2021-11-11-20-33-31.png)
 <br> (1) Click "Tasks".
 
-> Scheduling a workshop is an activity that usually happens  in office or collaboration tools. Let's assume that the workshop was scheduled and the right people were invited.
-
 1. Schedule and Kick-off Fit-to-Standard Workshop
+<br> Scheduling a workshop is an activity that usually happens  in office or collaboration tools. Let's assume that the workshop was scheduled and the right people were invited.
 <br> ![](2021-11-11-20-37-20.png)
 <br> (1) Set Scope Filter to the scope name (e.g. "Plant Berlin") you defined in the previous Excercise.
 <br> (2) Set Assigned Role Filter to "Business Process Expert".
@@ -38,7 +37,6 @@ Do you remember the two elements that make the project scope?  It was both the S
 <br> (1) Enter "Friendly Refund Policy" as title.
 <br> (2) Enter "To make our customers happy we implement a friendly refund policy, Refund deductions only in exceptional cases." as description.
 <br> (3) Use scollbar to get to the lower areas of the screen (if needed).
-
 <br> ![](2021-11-11-20-56-10.png)
 <br> (4) Set Workstream to "Application Design and Configuration".
 <br> (5) Set Team to the team you defined during project setup e.g. "My Team".

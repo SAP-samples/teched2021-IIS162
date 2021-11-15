@@ -6,11 +6,11 @@ In this chapter you will document your own process models using SAP Cloud ALM.
 
 ## Create Custom Solution Process
 
+> Please note down the names of the artifacts you create. You might need them later again.
+
 1. Enter "Process Authoring".
 <br> ![](2021-11-11-16-09-47.png)
 <br> (1) Click Process Authoring
-
-> Please note down the name of Solution Process. You might need it later again.
 
 2.	Create New Solution Process.
 <br> ![](2021-11-11-16-10-40.png)
@@ -24,7 +24,7 @@ In this chapter you will document your own process models using SAP Cloud ALM.
 
 ## Model Your Process Diagrams
 
-> You can model your own diagram. But always keep reuse in mind. There might be Business Activities you want to reuse.
+> You can model your own diagrams. But always keep reuse in mind. There might be Business Activities / Solution Activities you want to reuse.
 
 1. Model Your **Solution Value Flow** diagram to depict scope of the process.
 <br> ![](2021-11-11-16-53-11.png)
@@ -32,9 +32,7 @@ In this chapter you will document your own process models using SAP Cloud ALM.
 <br> (2) Use the Business Activity popover to reuse and add Business Activities to the diagram.
 <br> (3) Click "Save".
 
-> You can model your own diagram. But always keep reuse in mind. There might be Solution Activities you want to reuse.
-
-2. Model Your **Solution Process Flow** Diagram to depict the process execution.
+1. Model Your **Solution Process Flow** Diagram to depict the process execution.
 <br> ![](2021-11-11-16-56-43.png)
 <br> (1) Click on "Solution Process Flow" tab.
 <br> (2) Click on "Edit".
