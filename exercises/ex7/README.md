@@ -27,11 +27,12 @@ In this exercise, we will manage the deployment of Transport Requests through th
 <br> ![](2021-11-12-10-54-46.png)
 <br> (1) Click "Start Implementation".
 
+> Please assign only one Transport Request to your Feature. This a courtesy to your fellow workshop participants to make sure everybody finds at least one Transport Request to assign.
+2. Assign Transport Request
 <br> ![](2021-11-12-10-55-01.png)
 <br> (1) Click "Assign".
 
-> Please assign only one Transport Request to your Feature. This a courtesy to your fellow workshop participants to make sure everybody finds at least one Transport Request to assign.
-
+3. Find Transport Request
 <br> ![](2021-11-12-10-55-18.png)
 <br> (1) Search for Transport Requests containing string "IIS162".
 <br> (2) Select **one** Transport Request.
@@ -43,29 +44,37 @@ In this exercise, we will manage the deployment of Transport Requests through th
 
 ## Release and Deploy Feature
 
+1. Delpoy to Quality Assurance
 <br> ![](2021-11-12-10-55-36.png)
 <br> (1) Click "Deploy" to release Transport Request from **development** tenant/client to **test** tenant/client.
 
+2. Refresh Transport Request Status
 <br> ![](2021-11-12-10-55-50.png)
 <br> (1) Click refresh icon and wait until the Transport Request arrived in the target tenant/client.
 
+3. Approve for Production
 <br> ![](2021-11-12-10-56-03.png)
 <br> (1) Click "Approve for Deployments" after the Transport Request has beed successfully tested in the test tenant/client.
 
+4. Deploy to Production
 <br> ![](2021-11-12-10-56-14.png)
 <br> (1) Click "Deploy" to release Transport Request from **test** tenant/client to **production** tenant/client.
 
+5. Refresh Transport Request Status
 <br> ![](2021-11-12-10-56-32.png)
 <br> (1) Click refresh icon and wait until the Transport Request arrived in the target tenant/client.
 
+6. Confirm Deployment
 <br> ![](2021-11-12-10-56-46.png)
 <br> (1) Click "Confirm Deployment" to confirm that the Transport Request reached the production tenant/client.
 
+7. Open History
 <br> ![](2021-11-12-10-56-58.png)
 <br> (1) Click history icon.
 
 ## Review Deployment History
 
+1. Display History
 <br> ![](2021-11-12-10-57-12.png)
 > Review Feature history to find out who deployed what, when, and to what target tenant/client.
  
