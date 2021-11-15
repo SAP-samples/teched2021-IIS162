@@ -19,7 +19,7 @@ In this exercise, we will manage the deployment of Transport Requests through th
 <br> (3) Set Workstream to "Application Design and Configuration".
 <br> (4) Set Priority to "High".
 <br> (5) Enter "Transport of Friendly Policy Configuration and Developments." as description.
-<br> (6) Click "Save".
+<br> (6) Click "Save".  
 
 ## Assign Transports
 
@@ -37,11 +37,11 @@ In this exercise, we will manage the deployment of Transport Requests through th
 <br> (1) Search for Transport Requests containing string "IIS162".
 <br> (2) Select **one** Transport Request.
 <br> (3) Click "Save".
-<br> 
+
 <br> A transport can only be assigned to one Feature. When you select a Transport Request it may already be assigned to a transport by a fellow workshop participant. In this case you would see the following error message:
 
 <br> ![](2021-11-15-16-07-30.png)
-<br> In this case please re-open tzhe dialog and pick a different Transport Request.
+<br> In this case please re-open the dialog and pick a different Transport Request.
 
 ## Release and Deploy Feature
 
@@ -75,7 +75,7 @@ In this exercise, we will manage the deployment of Transport Requests through th
 
 ## Review Deployment History
 
-1. Display History
+1. Review History
 <br> ![](2021-11-12-10-57-12.png)
 > Review Feature history to find out who deployed what, when, and to what target tenant/client.
  
