@@ -13,6 +13,6 @@
 
 ## Summary
 
-We hope you enjoyed your little journey through an SAP implementation using SAP Cloud ALM. For us it was a pleasure. Don't be shy, just request your own customer tenant [here](https://support.sap.com/en/alm/sap-cloud-alm.html). Have fun implementing SAP solutions!
+We hope you enjoyed your little journey through an SAP implementation using SAP Cloud ALM. It was a pleasure for us. Don't be shy, just request your own customer tenant [here](https://support.sap.com/en/alm/sap-cloud-alm.html). Have fun implementing SAP solutions!
 
 Cheers, Your SAP Cloud ALM team
