@@ -26,9 +26,9 @@ We hope you enjoyed your little journey through an SAP implementation using SAP 
 Here are some of the links you can visit to know more
 <br>
 
-<br>[Try the Public demo System](https://support.sap.com/en/alm/demo-systems/cloud-alm-demo-system.html)
-<br>[SAP Cloud ALM Expert Portal](https://support.sap.com/en/alm/sap-cloud-alm/implementation/sap-cloud-alm-implementation-expert-portal.html)
-<br>[Blog Posts](https://blogs.sap.com/2021/01/08/understanding-project-and-task-management-in-sap-cloud-alm/)
-<br>[SAP Cloud ALM Book-Coming Soon ](https://www.sap-press.com/introducing-sap-cloud-alm-for-implementations_5477/)
+<br>*[Try the Public demo System](https://support.sap.com/en/alm/demo-systems/cloud-alm-demo-system.html)
+<br>*[SAP Cloud ALM Expert Portal](https://support.sap.com/en/alm/sap-cloud-alm/implementation/sap-cloud-alm-implementation-expert-portal.html)
+<br>*[Blog Posts](https://blogs.sap.com/2021/01/08/understanding-project-and-task-management-in-sap-cloud-alm/)
+<br>*[SAP Cloud ALM Book-Coming Soon ](https://www.sap-press.com/introducing-sap-cloud-alm-for-implementations_5477/)
 
 Cheers, Your SAP Cloud ALM team
