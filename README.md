@@ -12,11 +12,11 @@ This repository contains the material for the SAP TechEd 2021 session called "II
 
 Let's us spend a moment to understand SAP Cloud ALM
 
-<img src="images/2021-11-16_14-19-51.jpg" >
+<img src="images/2021-11-16_14-19-51.jpg" width=600>
 
 and the core capabilities it offers
 
-<img src="images/2021-11-16_14-18-15.jpg" >
+<img src="images/2021-11-16_14-18-15.jpg" width=600>
 
 In this session you experience how SAP Cloud ALM can help you in adoption of the Intelligent Enterprise and accelerating your implementation projects. 
 
