@@ -1,7 +1,9 @@
 # Exercise 9 - Conclude and Hide Your Project
 
+
 <br>
-<br>You can now proceed with the exercise by reading the steps below. In case you find issues , you can look at the [recorded demo](https://wpb101101.hana.ondemand.com/wpb/pub/wa/index.html?library=library.txt&show=project!PR_C66AB9CFC170AA94)
+<br>You can proceed with the exercise by reading the steps below. In case you find issues, you can look at the [recorded demo](https://wpb101101.hana.ondemand.com/wpb/pub/wa/index.html?library=library.txt&show=project!PR_C66AB9CFC170AA94)
+
 
 
 
