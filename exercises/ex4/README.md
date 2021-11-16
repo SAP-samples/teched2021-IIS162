@@ -1,6 +1,9 @@
 # Exercise 4 - Determine the Project Implementation Scope
 
 Do you remember the two elements that make the project scope? It was both the Solution Processes and the needed to be implemented or developed requirements. Now it's time for the Fit-to-Standard Workshops to find out what Requirements are needed to be taken into consideration.
+<br>
+<br>You can now proceed with the exercise by reading the steps below. In case you find issues , you can look at the [recorded demo](https://wpb101101.hana.ondemand.com/wpb/pub/wa/index.html?library=library.txt&show=project!PR_3CA3DB0FECAA6D97)
+
 
 ## Fit-to-Standard Workshops
 
