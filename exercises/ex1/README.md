@@ -29,8 +29,8 @@ Projects also provide a time boxing and defines the teams and the concrete perso
 <br> (2) Enter planned dates for your phases. You do not need to enter dates of all the phases. you can as an example enter dates only for Prepare phase, Explore phase and Realize phase.
 <br> ![](2021-11-11-15-19-41.png)
 <br> (1) Start creating some sprints for your Project.
-<br> (2) We recommend you that you create Sprints without overlapping of dates.
-<br> (3) You can populate some dates for the milestones created by system for Kickoff and Prepared Go Live.
+<br> (2) We recommend you that you create Sprints without overlapping dates.
+<br> (3) You can notice that system already creates three milestones for you. You can populate dates for the milestones Kickoff and Planned Go Live.
 <br> (3) Make sure you save the Project.
 
 ## Create Teams and Assign Persons
