@@ -32,6 +32,8 @@ Keeping track on Project Progress and making sure everything is consistent is a 
 <br> (1) Enter name for the view following current month, underscore and a free text title. PLease follow form \<MMDD\>_\<Free Text Title\>.
 <br> (2) Click "Save".
 
+> Please note your user story will appear in this filtered view only if you assigned it to "Sprint 1" in previous exercise. In case your user story is not showing up, please review your user story Timebox assignment.
+
 1. Navigate to User Story
 <br> ![](2021-11-12-13-44-57.png)
 <br> (1) Click on user story "I as a Customer wanto to get transparency on deductions".
