@@ -71,6 +71,7 @@ Keeping track on Project Progress and making sure everything is consistent is a 
 <br> (1) Review the Solution Process Status for consistency issues. All resolved :-)
 
 ## Requirements Traceability
+> Use the Browser back button to go back to list of Analytical Reports
 
 1. Start Requirements Traceability
 <br> ![](2021-11-12-13-50-53.png)
