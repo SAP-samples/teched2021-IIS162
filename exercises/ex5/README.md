@@ -1,6 +1,10 @@
 # Exercise 5 - Manage Requirements Realization
 
-In this exercise, we will define User Stories. The team is executing the project using Sprints. User Stories help to split the work into smaller chuncks and to dristribute the work across sprints and optionally across teams/users. Let's do that!
+In this exercise, we will define User Stories. The team is executing the project using Sprints. User Stories help to split the work into smaller chunks and to distribute the work across sprints and optionally across teams/users. 
+<br>
+<br>You can now proceed with the exercise by reading the steps below. In case you find issues , you can look at the [recorded demo](https://wpb101101.hana.ondemand.com/wpb/pub/wa/index.html?library=library.txt&show=project!PR_DF676B1D610B89C)
+
+
 
 ## Break Requirements into User Stories
 
