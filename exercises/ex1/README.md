@@ -38,9 +38,9 @@ Projects also provide a time boxing and defines the teams and the concrete perso
 > **CAUTION**: This is not a productive SAP Cloud ALM environment. We are here in a shared demo environment and personal information can be seen by others. Please do **not** enter any personal data e.g. E-Mail adresses. Thank You!
 
 1. Create Team and Assign Persons
-<br> A Project can have multiple teams. Each team has multiple roles, users can be assigned to one or more roles or one or more teams. In order to onboard a new team member, the user needs to be entered here. This user has to be known to the Identity Provider (productive IAS) connected to SAP Cloud ALM, so that the user can be invited via eMail to the project. The team is displayed per Project, to edit it you need to navigate to the Teams tab of the project and select “edit”.
+<br> A Project can have multiple teams. Each team has multiple roles, users can be assigned to one or more roles or one or more teams. In order to onboard a new team member, the user needs to be entered here. This user has to be known to the Identity Provider (productive IAS) connected to SAP Cloud ALM, so that the user can be invited via eMail to the project. The team is displayed per Project, to edit it you need to navigate to the Teams tab under "Manage Projects" and select “edit”.
 <br> ![](2021-11-11-15-28-24.png)
-<br> (1)Click "Manage Teams" to navigate to edit UI
+<br> (1)Team is hsown only in disply mode within a Project. Click "Manage Teams" to navigate to team maintenance UI
 
 2. Maintain Team 
 <br> In this UI you can edit details of the current team, or click Create in the left Panel to create a new Team. In this exercise only one Team is sufficient.
