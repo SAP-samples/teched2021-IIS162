@@ -8,6 +8,7 @@ In this exercise we will conclude and hide the project.
 
 
 ## Hide your Project
+> Many times you may want to hide Projects if they are not in Active use so that the list of Projects for your Business users is not too long. In this exercise we will hide the Project we created and keep the system neat, clean and tidy.
 
 1. Enter Projects
 <br> ![](2021-11-12-14-31-47.png)
@@ -16,7 +17,7 @@ In this exercise we will conclude and hide the project.
 2.	Hide Your Project
 <br> ![](2021-11-12-14-32-05.png)
 <br> (1) Find and select your project and click "Hide Project".
-<br> (2) Note that yor Project now shows in the Tab "Hidden"
+<br> (2) Note that your Project now shows in the Tab "Hidden"
 
 ## Summary
 
