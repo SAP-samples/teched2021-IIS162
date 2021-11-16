@@ -25,7 +25,7 @@ In this exercise, we will define User Stories. The team is executing the project
 <br> ![](2021-11-12-08-22-15.png)
 <br> (1) Enter "I as Customer want to get transparency on deductions" as title.
 <br> (2) Enter a description.
-<br> (3) Use scroll bar to get to lower areas of the screen. It is really important that you assign this user story to "Sprint 1" as w will use it in filters in subsequent exercise.
+<br> (3) Use scroll bar to get to lower areas of the screen. It is really important that you assign this user story to "Sprint 1" as you will use it in filters in subsequent exercise.
 
 <br> ![](2021-11-12-08-48-10.png)
 <br> (1) Set Story Points to "5".
