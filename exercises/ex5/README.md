@@ -24,7 +24,7 @@ In this exercise, we will define User Stories. The team is executing the project
 4. Specify User Story
 <br> ![](2021-11-12-08-22-15.png)
 <br> (1) Enter "I as Customer want to get transparency on deductions" as title.
-<br> (2) Enter a Requirement description.
+<br> (2) Enter a description.
 <br> (3) Use scroll bar to get to lower areas of the screen (if needed).
 
 <br> ![](2021-11-12-08-48-10.png)
