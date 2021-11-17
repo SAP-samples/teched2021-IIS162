@@ -6,9 +6,7 @@ After completing these steps you will have access to SAP Cloud ALM.
 
 ## System Access and User
 
-1. Please open Demo Tenant Landing Page [here](https://support.sap.com/en/alm/demo-systems/cloud-alm-demo-system.html). 
-
-> Currently the link points to the general Demo Tenant Landing page. Not all steps described in the script may work on the general demo tenant. Shortly before session start, the link will be changed to the SAP TechEd IIS162 Demo Tenant landing page.
+1. Please open the SAP TechEd Demo Tenant Landing Page [here](https://support.sap.com/en/alm/demo-systems/cloud-alm-teched-iis162.html) 
 
 2. Open SAP Cloud ALM tenant
 <br> ![](2021-11-12-14-40-27.png)
