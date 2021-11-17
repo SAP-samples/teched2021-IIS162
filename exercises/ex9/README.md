@@ -2,10 +2,7 @@
 
 In this exercise we will conclude and hide the project.
 <br>
-<br>You can now proceed with the exercise by reading the steps below. In case you find issues , you can look at the [recorded demo](https://wpb101101.hana.ondemand.com/wpb/pub/wa/index.html?library=library.txt&show=project!PR_C66AB9CFC170AA94)
-
-
-
+<br>You can now proceed with the exercise by reading the steps below. In case you find issues , you can look at the [recorded demo](https://wpb101101.hana.ondemand.com/wpb/pub/wa/index.html?library=library.txt&show=project!PR_C66AB9CFC170AA94).
 
 ## Hide your Project
 > Many times you may want to hide Projects if they are not in Active use so that the list of Projects for your Business users is not too long. In this exercise we will hide the Project we created and keep the system neat, clean and tidy.

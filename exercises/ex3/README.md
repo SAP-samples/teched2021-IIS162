@@ -6,8 +6,7 @@ A project usually delivers a defined scope under time constraints. The time cont
 
 In this chapter, you will scope the Solution Processes that are implemented in this project.
 <br>
-<br>You can now proceed with the exercise by reading the steps below. In case you find issues , you can look at the [recorded demo](https://wpb101101.hana.ondemand.com/wpb/pub/wa/index.html?library=library.txt&show=project!PR_E0E0458F05A08185)
-
+<br>You can now proceed with the exercise by reading the steps below. In case you find issues , you can look at the [recorded demo](https://wpb101101.hana.ondemand.com/wpb/pub/wa/index.html?library=library.txt&show=project!PR_E0E0458F05A08185).
 
 ## Create a Scope
 

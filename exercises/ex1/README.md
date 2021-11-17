@@ -5,10 +5,7 @@ In this exercise, we will create a Project. Projects are the key entities to fac
 Projects can be equipped with project templates to best support different kind of implementaitons e.g. SAP S/4HANA Cloud, SAP SuccessFactors, or Intelligent Enterprise Suite focussed implementations. 
 Projects also provide a time boxing and defines the teams and the concrete persons doing the project work.
 <br>
-<br>You can now proceed with the exercise by reading the steps below. In case you find issues , you can look at the [recorded demo](https://wpb101101.hana.ondemand.com/wpb/pub/wa/index.html?library=library.txt&show=project!PR_459999E6D5BD26B2)
-
-
-
+<br>You can now proceed with the exercise by reading the steps below. In case you find issues , you can look at the [recorded demo](https://wpb101101.hana.ondemand.com/wpb/pub/wa/index.html?library=library.txt&show=project!PR_459999E6D5BD26B2).
 
 ## Select Project Template and Define Timeboxes/Sprints
 > We will begin many of the exercises from the Fiori launchpad. When you are within any application , you can click on the SAP Logo to return to Fiori Launchpad

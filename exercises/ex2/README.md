@@ -6,10 +6,7 @@ In this chapter you will document your own process models using SAP Cloud ALM.
 
 A “solution process” defines how a busines process is supported by the various solutions. In order to create a new solution process, we need to define which business process (variant) this solution process belongs to. In our example we will create a custom solution process of the “order to cash” process. 
 <br>
-<br>You can now proceed with the exercise by reading the steps below. In case you find issues , you can look at the [recorded demo](https://wpb101101.hana.ondemand.com/wpb/pub/wa/index.html?library=library.txt&show=project!PR_A34914211023689B)
-
-
-
+<br>You can now proceed with the exercise by reading the steps below. In case you find issues , you can look at the [recorded demo](https://wpb101101.hana.ondemand.com/wpb/pub/wa/index.html?library=library.txt&show=project!PR_A34914211023689B).
 
 ## Create Custom Solution Process
 

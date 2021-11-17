@@ -2,9 +2,7 @@
 
 Testing is often underestimated. Eventually testing keeps you out of jail. Let's see how SAP Cloud ALM can help to make this task a little more pleasant.
 <br>
-<br>You can now proceed with the exercise by reading the steps below. In case you find issues , you can look at the [recorded demo](https://wpb101101.hana.ondemand.com/wpb/pub/wa/index.html?library=library.txt&show=project!PR_FE43DE2A075D0591)
-
-
+<br>You can now proceed with the exercise by reading the steps below. In case you find issues , you can look at the [recorded demo](https://wpb101101.hana.ondemand.com/wpb/pub/wa/index.html?library=library.txt&show=project!PR_FE43DE2A075D0591).
 
 ## Create Test Case
 

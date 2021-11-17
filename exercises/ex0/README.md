@@ -6,8 +6,7 @@ After completing these steps you will have access to SAP Cloud ALM.
 
 ## System Access and User
 
-1. Please open the SAP TechEd Demo Tenant Landing Page [here](https://support.sap.com/en/alm/demo-systems/cloud-alm-teched-iis162.html) 
-<br> Direct link to the tenant [here](https://calm-teched-iis162.eu10.alm.cloud.sap/launchpad#Shell-home). User ist "Adam" and password is "Calm21#3".
+1. Please open the SAP TechEd Demo Tenant Landing Page [here](https://support.sap.com/en/alm/demo-systems/cloud-alm-teched-iis162.html) or use direct link to the tenant [here](https://calm-teched-iis162.eu10.alm.cloud.sap/launchpad#Shell-home). User "Adam", password "Calm21#3".
 
 2. Open SAP Cloud ALM tenant
 <br> ![](2021-11-12-14-40-27.png)

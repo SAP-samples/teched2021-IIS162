@@ -2,10 +2,7 @@
 
 Keeping track on Project Progress and making sure everything is consistent is a task for SAP Cloud ALM Overview Page and Analytics. Let's get it a glimpse.
 <br>
-<br>You can now proceed with the exercise by reading the steps below. In case you find issues , you can look at the [recorded demo](https://wpb101101.hana.ondemand.com/wpb/pub/wa/index.html?library=library.txt&show=project!PR_E4DD6C1115788FA4)
-
-
-
+<br>You can now proceed with the exercise by reading the steps below. In case you find issues , you can look at the [recorded demo](https://wpb101101.hana.ondemand.com/wpb/pub/wa/index.html?library=library.txt&show=project!PR_E4DD6C1115788FA4).
 
 ## Overview Page
 
