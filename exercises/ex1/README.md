@@ -21,7 +21,7 @@ You can now proceed with the exercise by reading the steps below. In case you fi
 <br> (4) Click "Save".
 
 3. Define Timeboxing
-<br> In this Step you define the different timelines of Phases, Sprints or milestones.
+<br> In this Step you define the different timelines of Phases, Sprints or Milestones.
 <br> ![](2021-11-11-15-15-26.png)
 <br> (1) Click on the Timebox Tab
 <br> (2) Enter planned dates for your phases. You do not need to enter dates of all the phases. you can as an example enter dates only for Prepare phase, Explore phase and Realize phase.
