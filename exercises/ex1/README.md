@@ -10,7 +10,7 @@ You can now proceed with the exercise by reading the steps below. In case you fi
 ## Select Project Template and Define Timeboxes/Sprints
 > We will begin many of the exercises from the Fiori launchpad. When you are within any application , you can click on the SAP Logo to return to Fiori Launchpad
 
-1. Click Projects.
+1. Click Projects
 <br> ![](2021-11-11-15-00-33.png)
 
 2.	Create Your Project
