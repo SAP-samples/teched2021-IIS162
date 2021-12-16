@@ -2,7 +2,7 @@
 
 In this exercise, we will create a Project. Projects are the key entities to facilitate SAP implementations. 
 
-Projects can be equipped with project templates to best support different kind of implementaitons e.g. SAP S/4HANA Cloud, SAP SuccessFactors, or Intelligent Enterprise Suite focussed implementations. 
+Projects can be equipped with project templates to best support different kind of implementations e.g. SAP S/4HANA Cloud, SAP SuccessFactors, or Intelligent Enterprise Suite focussed implementations. 
 Projects also provide a time boxing and defines the teams and the concrete persons doing the project work.
 
 You can now proceed with the exercise by reading the steps below. In case you find issues, you can look at the [recorded demo](https://wpb101101.hana.ondemand.com/wpb/pub/wa/index.html?library=library.txt&show=project!PR_459999E6D5BD26B2).
@@ -10,7 +10,7 @@ You can now proceed with the exercise by reading the steps below. In case you fi
 ## Select Project Template and Define Timeboxes/Sprints
 > We will begin many of the exercises from the Fiori launchpad. When you are within any application , you can click on the SAP Logo to return to Fiori Launchpad
 
-1. Click Projects.
+1. Click Projects
 <br> ![](2021-11-11-15-00-33.png)
 
 2.	Create Your Project
@@ -21,7 +21,7 @@ You can now proceed with the exercise by reading the steps below. In case you fi
 <br> (4) Click "Save".
 
 3. Define Timeboxing
-<br> In this Step you define the different timelines of Phases, Sprints or milestones.
+<br> In this Step you define the different timelines of Phases, Sprints or Milestones.
 <br> ![](2021-11-11-15-15-26.png)
 <br> (1) Click on the Timebox Tab
 <br> (2) Enter planned dates for your phases. You do not need to enter dates of all the phases. you can as an example enter dates only for Prepare phase, Explore phase and Realize phase.

@@ -10,11 +10,11 @@ This repository contains the material for the SAP TechEd 2021 session called "II
 
 ### Good day!
 
-Let's us spend a moment to understand SAP Cloud ALM
+Let us spend a moment to understand SAP Cloud ALM
 
 <img src="images/2021-11-16_14-19-51.jpg" width=600>
 
-and the core capabilities it offers
+and the core capabilities it offers.
 
 <img src="images/2021-11-16_14-18-15.jpg" width=600>
 
@@ -22,13 +22,13 @@ In this session you experience how SAP Cloud ALM can help you in adoption of the
 
 You will experience end-to-end how the tool supports the implementation journey:
 
-Starting with setting up the project, timelines and onboarding the team in Cloud ALM you will then model your own proces and scope the processes to be implemented as part of the project. Then you will be creating requirements as part of the fit-to-standard workshops and divide the business requirements into user stories describing what needs to be done. As a next step, a manual test case is created and tested before releasing the transports with the help of a feature in SAP Cloud ALM.
+You will start with setting up the project, timelines and onboarding the team in SAP Cloud ALM. You will also model your own process and scope the processes to be implemented as part of the project. Then you will be creating requirements as part of the fit-to-standard workshops and divide the business requirements into user stories describing what needs to be done. As a next step, a manual test case is created and tested before releasing the transports with the help of a feature in SAP Cloud ALM.
 
 During this project journey guided by SAP Cloud ALM you can track and trace the status of the project and its entities in the project dashboard and with the help of the Analytics apps.
 
 Now you can get started. We hope you enjoy the session.
 
-​Cheers, Your SAP Cloud ALM team
+​Cheers, Your SAP Cloud ALM team.
 
 ## Requirements
 
