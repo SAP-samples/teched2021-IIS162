@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2021-IIS162)](https://api.reuse.software/info/github.com/SAP-samples/teched2021-IIS162)
+
 # IIS162 - Manage Your Implementation Using SAP Cloud ALM
 
 ## Description
